@@ -1,4 +1,5 @@
-# Machine Olfaction
+# Machine Olfaction using CLS Fingerprints
+
 Using a data-driven fingerprint, obtained by training a LLM on a small data set of molecules for structure-odor prediction
 
 
